@@ -1,7 +1,7 @@
-# android-androidx-lifecycle-service
+## androidx-lifecycle-service
 
 Eclipse library project based on:<br/>
-https://maven.google.com/androidx/lifecycle/lifecycle-service/2.0.0/lifecycle-service-2.0.0.jar
+https://maven.google.com/androidx/lifecycle/lifecycle-service/2.0.0/lifecycle-service-2.0.0.aar
 
 **Import:**
 - _File > Import... > Team > Team Project Set > URL:_<br/>
